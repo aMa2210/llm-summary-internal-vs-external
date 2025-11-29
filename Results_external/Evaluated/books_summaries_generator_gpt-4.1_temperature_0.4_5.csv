@@ -1,4 +1,4 @@
-book_title,summary_llm,value_gemini,value_gpt,score_gemini,score_gpt
+﻿book_title,summary_llm,value_gemini,value_gpt,score_gemini,score_gpt
 A Doll_s House-Henrik Ibsen,"Certainly! Here is a **very detailed summary of the plot of ""A Doll’s House""** based strictly on the text you provided, including all main events, key developments, situations with characters, and the conclusion, with no external commentary or analysis:
 
 ---
@@ -134,7 +134,7 @@ The generated summary successfully covers all events, characters, and plot point
 **Conclusion:**
 The generated summary demonstrates near-perfect alignment with the original summary, with only trivial discrepancies (such as the omission of Helene’s name and the specific lie about the source of the money). It covers all major events, characters, and subplots, and even includes some additional minor details from the play itself.
 
-9",8,9
+9",8.0,9.0
 Alice_s Adventures in Wonderland-Lewis Carroll,"Certainly! Here is a **very detailed summary of the plot** of ""Alice’s Adventures in Wonderland,"" based strictly on the text you provided, covering all main events, situations, character actions, and the conclusion:
 
 ---
@@ -249,7 +249,7 @@ The generated summary successfully covers all events, characters, and plot point
 - The generated summary is slightly more detailed and includes a few more book-accurate events, but does not miss any major content from the original summary.
 
 **Final Score:**
-9",7,9
+9",7.0,9.0
 Anna Karenina-Leo Tolstoy,"Certainly! Here is a very detailed summary of the plot of ""Anna Karenina,"" based solely on the text you provided, with all main events, key developments, situations, character actions, and the conclusion included:
 
 ---
@@ -390,7 +390,7 @@ Given the number of missing key details, the significant plot contradiction, and
 - The themes and overall structure are preserved, but the simplification of subplots and omission of certain details (especially the thunderstorm, spa, and Veslovsky episodes) prevent it from being a near-perfect or perfect match.
 
 **Final Score:**
-8",6,8
+8",6.0,8.0
 Crime and Punishment-Fyodor Dostoyevsky,"Certainly! Here is a **very detailed summary of the plot** for the text you provided, following your instructions to include all main events, the complete storyline, and every key development, situation, and event with characters, including the conclusion. No outside knowledge or analysis is used—**only the events as described in the text**.
 
 ---
@@ -648,7 +648,7 @@ The generated summary is extensive but suffers from significant chronological in
 The generated summary covers all major events, characters, and plot points, with only minor omissions of specific incidents and details. It simplifies some subplots and omits a few specific moments, but overall, it aligns very closely with the original summary.
 
 **Final Score:**
-8",5,8
+8",5.0,8.0
 Death in Venice-Thomas Mann,"Certainly! Here is a **very detailed summary of the plot of ""Death in Venice"" based solely on the text you provided**:
 
 ---
@@ -762,7 +762,7 @@ The generated summary fails significantly because it does not adhere to the inst
 - However, the issue here is not omission but over-inclusion: the generated summary is much more detailed and covers the entire book, not just the opening.
 - Since the generated summary does include all the events, characters, and plot points of the original summary (and more), but does not match the scope, a score of 6 is appropriate: it includes all major plot points from the original, but with significant extra detail.
 
-6",2,6
+6",2.0,6.0
 Don Quixote-Miguel de Cervantes,"Certainly! Below is a **very detailed summary of the plot** of the text you provided, strictly based on the content and events found within the text, and not on any external knowledge. This summary covers the main events, situations, character developments, and the conclusion as requested.
 
 ---
@@ -913,7 +913,7 @@ The generated summary is highly detailed and covers all major events, characters
 
 Given the criteria, the generated summary covers all major events and characters, with only minor omissions in subplots and meta-fictional framing.
 
-8",6,8
+8",6.0,8.0
 Dracula-Bram Stoker,"Certainly! Here is a **very detailed summary of the plot** of the provided text of *Dracula*, focusing only on the events as they appear in the text, with all main events, situations, and the complete storyline, including the conclusion. No analysis or outside knowledge is included—only the plot as presented.
 
 ---
@@ -1031,7 +1031,7 @@ The generated summary successfully covers all events, characters, and plot point
 **Conclusion:**
 The generated summary covers all events, characters, and plot points from the original summary, and even adds minor, accurate details that enhance understanding without introducing errors or contradictions. The only possible critique is that it is more detailed than the original, but this is not a flaw per the scoring rubric.
 
-9",8,9
+9",8.0,9.0
 Frankenstein-Mary Shelley,"Certainly! Here is a **very detailed summary** of the plot of *Frankenstein*, based only on the text you provided. This summary includes all main events, the complete storyline, key developments, situations, events with characters, and the conclusion, strictly following the events as presented in the text.
 
 ---
@@ -1227,7 +1227,7 @@ The generated summary successfully covers all the events, characters, and plot p
 **Conclusion:**
 - The generated summary covers all events, characters, and plot points from the original summary and adds accurate, relevant details from the novel. There are no significant omissions or inaccuracies. The only difference is the level of detail, which is greater in the generated summary.
 
-9",7,9
+9",7.0,9.0
 Great Expectations-Charles Dickens,"Here is a **very detailed summary of the plot of ""Great Expectations"" based strictly on the text you provided**:
 
 ---
@@ -1380,7 +1380,7 @@ The generated summary is very comprehensive and often provides more specific det
 - The omissions are minor and do not affect the overall understanding of the plot or characters.
 
 **Final Score:**
-9",6,9
+9",6.0,9.0
 Hamlet-William Shakespeare,"Here is a detailed summary of the plot of ""Hamlet, Prince of Denmark"" based solely on the text provided:
 
 ---
@@ -1518,7 +1518,7 @@ The generated summary is exceptionally thorough. It successfully covers all even
 **Conclusion:**
 - The generated summary demonstrates near-perfect alignment with the original, with only trivial discrepancies in minor details and a slight increase in specificity in some areas.
 
-9",9,9
+9",9.0,9.0
 Jane Eyre-Charlotte Brontë,"Certainly! Here is a **very detailed summary of the plot** of the text you provided, covering all main events, the complete storyline, and detailing every key development, situation, and event with characters, including the conclusion. This summary is strictly based on the text you provided and does not include any external information.
 
 ---
@@ -1713,7 +1713,7 @@ The generated summary is exceptionally thorough. It not only covers all the grou
 **Conclusion:**
 The generated summary covers all events, characters, and plot points from the original summary, and even adds accurate, relevant details. There are no significant omissions or errors. The only difference is the inclusion of additional, accurate information and a slightly more detailed structure.
 
-9",8,9
+9",8.0,9.0
 Madame Bovary-Gustave Flaubert,"Certainly! Here is a **very detailed summary of the plot of ""Madame Bovary""** based solely on the text you provided, covering all main events, key developments, situations with characters, and the conclusion, as requested:
 
 ---
@@ -1928,7 +1928,7 @@ The generated summary provides a very detailed account of ""Madame Bovary,"" but
 **Final Score Justification:**
 The generated summary is extremely thorough, covers all major events and characters, and only omits or reframes a few minor details. The additions are accurate and do not detract from the core narrative. The only reason it does not receive a perfect 10 is due to a few minor discrepancies in emphasis and the inclusion of details not present in the original summary.
 
-9",6,9
+9",6.0,9.0
 Mrs. Dalloway-Virginia Woolf,"Certainly! Here is a **very detailed summary of the plot** of the text you provided, following your instructions to only use the text and to include all main events, the complete storyline, and every key development, situation, event with characters, and the conclusion.
 
 ---
@@ -2070,7 +2070,7 @@ The generated summary is a highly detailed and comprehensive account of the nove
 - The summary covers all major events and characters, and most subplots, with only minor omissions in thematic nuance and a few specific details.
 - The extra details do not detract from accuracy, as they are true to the novel, but the lack of explicit mention of certain themes and character insights prevents a perfect score.
 
-9",8,9
+9",8.0,9.0
 Pride and Prejudice-Jane Austen,"Certainly! Here is a **very detailed summary of the plot** of the text you provided, including all main events, key developments, situations, character events, and the conclusion, strictly based on the text above:
 
 ---
@@ -2203,7 +2203,7 @@ The generated summary does not introduce any significant inaccuracies or extrane
 
 **Final Score:**
 
-9",9,9
+9",9.0,9.0
 Robinson Crusoe-Daniel Defoe,"Certainly! Here is a **very detailed summary** of the plot of the text you provided, covering all main events, key developments, situations, and the conclusion, strictly based on the text above and including all major plot points:
 
 ---
@@ -2437,7 +2437,7 @@ The generated summary includes most major plot points but misses key details and
 The generated summary is highly detailed and covers all major events, characters, and plot points. It includes some extra details from the book not present in the original summary, and omits a few minor but specific details and nuances. The omissions are mostly in the realm of specific dates, numbers, and some psychological or thematic elements, while the extra details do not contradict the original summary.
 
 **Final Score:**
-8",6,8
+8",6.0,8.0
 Six Characters in Search of an Author-Luigi Pirandello,"Certainly! Here is a **very detailed summary of the plot of ""Six Characters in Search of an Author"" based strictly on the text you provided**, including all main events, key developments, character situations, and the conclusion, without any analysis or external context.
 
 ---
@@ -2630,7 +2630,7 @@ While it covers ""most major plot points,"" the presence of significant contradi
 **Final Score Justification:**
 - The generated summary is extremely thorough, accurate, and well-aligned with the original, with only minor omissions of stage business and some direct quotations. These are not major plot points or character omissions, but they do represent a slight loss of nuance and theatrical detail.
 
-9",6,9
+9",6.0,9.0
 The Adventures of Huckleberry Finn-Mark Twain,"Certainly! Here is a **very detailed summary of the plot** for the text you provided, covering all main events, key developments, situations with characters, and the conclusion. This summary is based solely on the text you gave and does not include any outside knowledge or analysis.
 
 ---
@@ -2818,7 +2818,7 @@ The generated summary covers all major events, characters, and plot points from 
 **Final Score Justification:**  
 Given the criteria, the generated summary fits best at an **8**: ""Minor omissions in subplots or specific details."" It is comprehensive, accurate, and covers all major events and characters, with only minor omissions and simplifications.
 
-8",7,8
+8",7.0,8.0
 The Count of Monte Cristo-Alexandre Dumas,"Certainly! Here is a detailed summary of the plot of ""The Count of Monte Cristo"" based solely on the text you provided. This summary covers all main events, situations, and developments, and follows the storyline through to its conclusion.
 
 ---
@@ -2951,7 +2951,7 @@ The generated summary provides a very good overview of the novel's plot. It cove
 **Conclusion:**
 The generated summary covers all major events, characters, and plot points, and even adds some subplots not present in the original. However, it omits a few minor but notable details (Morrel’s rescue, specifics of Caderousse’s reward, and the emotional arc of Maximilian). The coverage is extremely thorough, with only minor omissions and a few extra details that do not detract from the overall accuracy.
 
-8",7,8
+8",7.0,8.0
 The Decameron-Giovanni Boccaccio,"Certainly! Here is a detailed summary of the entire plot of *The Decameron* based solely on the text you provided, including all main events, key developments, character situations, and the conclusion. This summary is based only on the text given, without any outside knowledge or analysis.
 
 ---
@@ -3257,174 +3257,8 @@ The generated summary is much more extensive than the original. While it success
 - The generated summary not only covers all events, characters, and plot points from the original summary, but also adds more detail and context. The only ""issue"" is the inclusion of the prologue and author’s defense, which are not in the original summary, but these are minor and do not detract from the core content alignment.
 
 **Final Score:**
-9",8,9
-The Divine Comedy-Dante Alighieri,"Certainly! Here is a **very detailed summary of the plot of ""The Divine Comedy: The Vision of Hell, Purgatory and Paradise – Hell (The Inferno)""** based strictly on the provided text. All main events, situations, characters, and the conclusion are included, with every key development detailed.
-
----
-
-### **Summary of ""The Divine Comedy: The Vision of Hell, Purgatory and Paradise – Hell (The Inferno)""**
-
-#### **Cantos I-II: The Journey Begins**
-
-- The narrator, Dante, finds himself lost in a dark, wild forest, having strayed from the straight path in the middle of his life. He is frightened and tries to climb a sunlit hill, but is blocked by three beasts: a panther, a lion, and a she-wolf. The she-wolf, especially, drives him back down.
-- At the base, Dante encounters the shade of the Roman poet Virgil, who introduces himself and explains he has been sent to guide Dante. Virgil says that Dante cannot escape the beasts by climbing the hill, but must journey through Hell and Purgatory, and then be led by another guide to Paradise.
-- Virgil reveals that Beatrice, a blessed lady from Heaven, prompted his coming, moved by love and concern for Dante. Lucia and Rachel, other blessed souls, also interceded for him. Encouraged, Dante accepts Virgil as his guide, and they set out together.
-
-#### **Cantos III-IV: The Gates of Hell and Limbo**
-
-- They reach the gates of Hell, inscribed with the famous phrase, “Abandon all hope, ye who enter here.” Dante is frightened but follows Virgil.
-- Inside, they hear the cries of souls who lived without infamy or praise—neither good nor evil—rejected by both Heaven and Hell. These souls are stung by insects and chase a banner endlessly.
-- They come to the river Acheron, where the boatman Charon ferries the damned across. Dante faints from terror.
-- Awakening, Dante finds himself in Limbo, the first circle of Hell, where virtuous non-Christians and unbaptized infants dwell. There is no torment but eternal longing. Dante meets great poets—Homer, Horace, Ovid, Lucan—and is welcomed among them. They visit a castle where noble souls such as Hector, Aeneas, Caesar, and philosophers like Socrates, Plato, and Aristotle reside.
-
-#### **Cantos V-VI: The Circles of Lust and Gluttony**
-
-- Descending to the second circle, they meet Minos, who judges souls and assigns their place in Hell. Here, the lustful are blown about by a violent storm, including Semiramis, Dido, Cleopatra, Helen, Achilles, Paris, and Tristan.
-- Dante speaks to Francesca da Rimini and Paolo, lovers slain for their affair. Moved by their story, Dante faints.
-- In the third circle, gluttons lie in foul, cold rain and are tormented by the three-headed dog Cerberus. Dante meets Ciacco, a Florentine, who prophesies political strife in Florence and tells Dante of the fate of several Florentine citizens.
-
-#### **Cantos VII-IX: Circles of Greed, Wrath, and the City of Dis**
-
-- In the fourth circle, the avaricious and prodigal roll heavy weights and clash, watched by Plutus. Virgil explains the workings of Fortune.
-- They reach the river Styx, where the wrathful fight on the surface and the sullen gurgle beneath. Phlegyas ferries them across. Dante recognizes Filippo Argenti among the wrathful.
-- They approach the city of Dis, whose gates are guarded by fallen angels. The Furies threaten Dante, and Virgil shields him from Medusa. A heavenly messenger arrives, rebukes the demons, and opens the gate for them.
-- Inside, they see heretics in burning tombs. Dante speaks with Farinata degli Uberti and Cavalcante de’ Cavalcanti, learning about the souls’ knowledge of the future and the fate of Florence.
-
-#### **Cantos X-XI: The Structure of Lower Hell**
-
-- Virgil explains the structure of Hell’s lower circles: the violent, the fraudulent, and the traitors. He distinguishes between sins of incontinence, violence, and fraud, explaining the rationale for their punishments.
-
-#### **Cantos XII-XVII: The Circle of Violence**
-
-- They descend a rocky slope, watched by the Minotaur, and reach a river of boiling blood, Phlegethon, where violent souls are immersed according to their guilt. Centaurs patrol the banks. Notable tyrants and murderers are named.
-- In a dark wood, the suicides are transformed into gnarled trees, tormented by Harpies. Dante breaks a branch and hears the story of Pier delle Vigne. Suicides will never regain their bodies, but will hang them on their trees after Judgment.
-- The next zone is a burning desert where blasphemers, sodomites, and usurers suffer under a rain of fire. Capaneus, a blasphemer, rages in defiance. Brunetto Latini, Dante’s former mentor, speaks to Dante and prophesies his future.
-- Dante meets three Florentine nobles among the sodomites, who lament Florence’s corruption.
-- At the edge of the burning sand, they encounter the monster Geryon, symbol of fraud. Dante observes the usurers, who sit beneath the fire, each with a purse bearing a family emblem. Dante and Virgil descend on Geryon’s back to the next circle.
-
-#### **Cantos XVIII-XXX: The Circle of Fraud (Malebolge)**
-
-- The eighth circle, Malebolge, is divided into ten ditches, each punishing a different type of fraud:
-    - **First ditch:** Panderers and seducers are whipped by demons. Dante recognizes Venedico Caccianemico and Jason.
-    - **Second ditch:** Flatterers wallow in excrement. Alessio Interminei and Thais are seen.
-    - **Third ditch:** Simonists (corrupt churchmen) are stuck headfirst in holes, feet burning. Dante rebukes Pope Nicholas III, who mistakes him for Boniface VIII.
-    - **Fourth ditch:** Diviners and false prophets have their heads twisted backward. Dante sees Amphiaraus, Tiresias, Manto, Michael Scot, and others.
-    - **Fifth ditch:** Barrators (corrupt politicians) are immersed in boiling pitch and tormented by demons. Dante and Virgil are threatened but escape.
-    - **Sixth ditch:** Hypocrites wear heavy, gilded leaden cloaks. Dante meets Catalano and Loderingo, and sees Caiaphas crucified on the ground.
-    - **Seventh ditch:** Thieves are tormented by serpents, constantly transformed between human and reptile. Dante recognizes Vanni Fucci, who curses God and prophesies Florence’s troubles. Other Florentine thieves are transformed in grotesque ways.
-    - **Eighth ditch:** Evil counselors are enveloped in flames. Ulysses and Diomede are punished together, and Ulysses recounts his final voyage and death. Guido da Montefeltro tells his story of fraudulent advice to Pope Boniface VIII.
-    - **Ninth ditch:** Sowers of discord are mutilated by a demon with a sword. Mohammed, Ali, Pier da Medicina, Curio, Mosca, and Bertrand de Born (who carries his severed head) are among them.
-    - **Tenth ditch:** Falsifiers (alchemists, counterfeiters, perjurers, impersonators) are afflicted with diseases, madness, and other torments. Dante speaks with Griffolino, Capocchio, Gianni Schicchi, Myrrha, Master Adam, and Sinon the Greek.
-
-#### **Cantos XXXI-XXXIV: The Central Pit and Final Circle**
-
-- At the edge of the final pit, Dante and Virgil see giants and titans, including Nimrod, Ephialtes, and Antaeus. Antaeus lifts them down to the lowest circle.
-- The ninth and final circle, Cocytus, is a frozen lake where traitors are imprisoned in ice:
-    - **Caina:** traitors to kin, with heads above the ice.
-    - **Antenora:** traitors to country or party, deeper in the ice. Dante converses with Bocca degli Abati and others.
-    - **Ptolomea:** traitors to guests, lying on their backs in the ice, tears frozen in their eyes. Friar Alberigo explains that some souls fall to Hell before their bodies die.
-    - **Judecca:** traitors to benefactors, completely submerged in ice.
-- At the very center is Lucifer (Dis), a gigantic, three-faced demon with bat-like wings. He chews on Judas Iscariot (betrayer of Christ), Brutus, and Cassius (betrayers of Caesar).
-- Virgil carries Dante down Lucifer’s body, and they pass through the center of the earth, emerging on the other side. They climb a narrow tunnel and, at last, see the stars of the world above.
-
----
-
-**Conclusion:**  
-Dante, guided by Virgil, journeys through all the circles of Hell, witnessing the punishments of the damned, speaking with many souls, and learning the nature of sin and divine justice. The journey ends as they escape Hell and emerge back to the surface, ready to continue to Purgatory.
-
----
-
-**End of Summary**","The generated summary is exceptionally detailed and comprehensive, covering all events, characters, and plot points mentioned in the original summary. In fact, it significantly expands upon the original, providing a much richer and more granular account of ""Inferno.""
-
-**Detailed Justification:**
-
-**Missing Details (Present in Original, Absent or Altered in Generated):**
-
-1.  **Specific Date:** The original states the opening is ""on the evening of Good Friday in the year 1300."" The generated summary generalizes this to ""in the middle of his life."" This is a minor omission of a specific temporal detail.
-2.  **Beast Name:** The original refers to one of the beasts as a ""leopard."" The generated summary uses ""panther."" While often used interchangeably in translations, the original summary specifically used ""leopard."" This is a very minor semantic difference.
-3.  **Ante-Inferno Details:** The original mentions ""worms lap their blood"" as part of the punishment for the indifferent souls. The generated summary omits this specific detail, though it covers the hornets/insects. It also omits Dante's specific emotional reaction of ""repugnance and pity.""
-4.  **Filippo Argenti's Fate:** The original highlights Dante's ""delight as other souls tear the man to pieces"" in the Fifth Circle. The generated summary mentions Dante recognizing Argenti but omits Dante's specific reaction and the detail of other souls tearing him apart.
-5.  **Lucifer's Position:** The original describes Lucifer as ""plunged waist-deep into the ice"" and states that ""His body pierces the center of the Earth."" The generated summary describes him as gigantic and three-faced but omits these specific positional details.
-6.  **Exit Details:** The original mentions Dante and Virgil ""holding on to his frozen tufts of hair"" while climbing Lucifer, reaching ""the Lethe, the river of forgetfulness,"" and emerging ""on Easter morning."" The generated summary simplifies this to ""Virgil carries Dante down Lucifer’s body, and they pass through the center of the earth, emerging on the other side. They climb a narrow tunnel and, at last, see the stars of the world above."" These are minor omissions of specific details regarding the exit from Hell.
-
-**Extra Details (Present in Generated, Absent in Original):**
-
-The generated summary includes a substantial amount of additional detail not present in the original summary, enriching the narrative significantly. These include:
-
-1.  **Specific Holy Women:** The original mentions ""two other holy women"" who sent Virgil. The generated summary names them as ""Lucia and Rachel.""
-2.  **Limbo Details:** The generated summary adds ""unbaptized infants"" to the inhabitants of Limbo, describes their ""eternal longing,"" explicitly names ""Homer"" among the poets, and details the ""castle where noble souls such as Hector, Aeneas, Caesar, and philosophers like Socrates, Plato, and Aristotle reside.""
-3.  **Character Lists:** For many circles, the generated summary provides extensive lists of specific sinners and their interactions, which are not in the original. Examples include:
-    *   **Lust:** Semiramis, Dido, Cleopatra, Helen, Achilles, Paris, Tristan.
-    *   **Gluttony:** The torment by Cerberus and the encounter with Ciacco, including his prophecy.
-    *   **Avaricious/Prodigal:** The presence of Plutus and Virgil's explanation of Fortune.
-    *   **Wrathful/Sullen:** The ferryman Phlegyas.
-    *   **Heretics:** The encounter with Cavalcante de’ Cavalcanti and the discussion about souls' knowledge of the future and Florence's fate.
-    *   **Seventh Circle (Violence):** The torment by Harpies for suicides, the detail that suicides will never regain their bodies, the raging Capaneus (blasphemer), Brunetto Latini's prophecy for Dante, and the observation of usurers' purses.
-    *   **Eighth Circle (Malebolge):** A vast array of specific characters and interactions across all ten pouches, such as Venedico Caccianemico, Jason, Alessio Interminei, Thais, Dante rebuking Pope Nicholas III, Amphiaraus, Tiresias, Manto, Michael Scot, Catalano, Loderingo, Vanni Fucci (and his curse/prophecy), Diomede, Guido da Montefeltro, Mohammed, Ali, Pier da Medicina, Curio, Mosca, Bertrand de Born, Griffolino, Capocchio, Gianni Schicchi, Myrrha, Master Adam, and Sinon the Greek.
-4.  **Structural Explanation:** The generated summary includes an entire section (Cantos X-XI) where Virgil explains the structure of lower Hell and the rationale for the punishments, a meta-narrative detail not present in the original summary.
-5.  **Giants' Names:** Naming Nimrod and Ephialtes at the Giants' Well.
-6.  **Ninth Circle Details:** Naming Bocca degli Abati in Antenora and Friar Alberigo's explanation that some souls fall to Hell before their bodies die in Ptolomea.
-7.  **Lucifer's Appearance:** Mentioning his ""bat-like wings.""
-
-**Conclusion:**
-
-The generated summary is remarkably thorough. It successfully covers all events, characters, and plot points outlined in the original summary. The few details it omits are minor and do not detract from the overall narrative flow or understanding of the journey. Conversely, the generated summary provides a wealth of additional, accurate details, characters, and specific interactions that significantly enhance its descriptive power beyond the scope of the original summary. While this means it's not a *perfectly identical* summary in terms of scope, it is a more comprehensive and detailed account of the book, and it fully encompasses all information provided in the original.
-
-9","**Analysis of Coverage:**
-
-**1. Opening and Setting:**
-- Both summaries begin with Dante lost in a dark wood on Good Friday, 1300, and his encounter with three beasts (leopard/panther, lion, she-wolf). The generated summary correctly identifies the beasts and Dante’s fear, and the intervention of Virgil, who is sent by Beatrice, Lucia, and Rachel (the original only mentions Beatrice and two other holy women, but the generated summary specifies Lucia and Rachel, which is accurate to the text).
-
-**2. Virgil’s Guidance and Purpose:**
-- Both summaries explain Virgil’s role as guide, the journey through Hell, and the eventual goal of reaching Heaven/Paradise, with Beatrice as the ultimate guide.
-
-**3. Gates of Hell and Ante-Inferno:**
-- Both mention the inscription on Hell’s gate and the souls who lived without infamy or praise, their punishment, and Charon ferrying souls across Acheron. The generated summary includes Dante fainting, which is a detail present in the poem but not in the original summary.
-
-**4. Limbo (First Circle):**
-- Both summaries cover Limbo, the presence of virtuous pagans, and Dante’s meeting with poets and philosophers. The generated summary adds more names (Homer, Horace, Ovid, Lucan, Hector, Aeneas, Caesar, Socrates, Plato, Aristotle), which are not all listed in the original summary but are accurate to the text.
-
-**5. Second Circle (Lust):**
-- Both mention Minos, the storm, and the story of Francesca and Paolo. The generated summary adds more names of the lustful (Semiramis, Dido, Cleopatra, Helen, Achilles, Paris, Tristan), which are not in the original summary but are accurate.
-
-**6. Third Circle (Gluttony):**
-- Both mention the gluttons, the rain, and Cerberus. The generated summary adds the character Ciacco and his prophecy, which is not in the original summary.
-
-**7. Fourth Circle (Avarice/Prodigality):**
-- Both mention the avaricious and prodigal rolling weights. The generated summary adds Plutus and Virgil’s explanation of Fortune, which is not in the original summary.
-
-**8. Fifth Circle (Wrath/Sullenness):**
-- Both mention the river Styx, the wrathful, the sullen, and Filippo Argenti. The generated summary adds Phlegyas as the ferryman, which is not in the original summary.
-
-**9. City of Dis and Heretics:**
-- Both mention the city of Dis, the resistance at the gates, the intervention of a heavenly messenger, and the heretics in burning tombs. The generated summary adds the Furies, Medusa, and specific heretics (Farinata, Cavalcante), which are not in the original summary.
-
-**10. Structure of Lower Hell:**
-- The generated summary includes Virgil’s explanation of the structure of Hell (incontinence, violence, fraud), which is not detailed in the original summary.
-
-**11. Seventh Circle (Violence):**
-- Both mention the Minotaur, river of boiling blood, Centaurs, Nessus, suicides as trees, Pier delle Vigne, blasphemers, sodomites, usurers, and Brunetto Latini. The generated summary adds Capaneus, three Florentine nobles, and more detail about the usurers and Geryon.
-
-**12. Eighth Circle (Malebolge):**
-- Both mention the division into ten pouches and the types of sinners in each. The generated summary is more detailed, listing specific names and punishments for each pouch, including Venedico Caccianemico, Jason, Alessio Interminei, Thais, Pope Nicholas III, Amphiaraus, Tiresias, Manto, Michael Scot, Vanni Fucci, Guido da Montefeltro, Mohammed, Ali, Pier da Medicina, Curio, Mosca, Bertrand de Born, Griffolino, Capocchio, Gianni Schicchi, Myrrha, Master Adam, and Sinon. The original summary only gives a few names (Ulysses, Caiphas, etc.).
-
-**13. Ninth Circle (Treachery):**
-- Both mention the Giants’ Well, Antaeus, Cocytus, and the four rings (Caina, Antenora, Ptolomea, Judecca), and the types of traitors in each. The generated summary adds more names (Bocca degli Abati, Friar Alberigo) and the detail that some souls fall to Hell before their bodies die.
-
-**14. Lucifer and the Conclusion:**
-- Both mention Lucifer with three faces, chewing Judas, Brutus, and Cassius, and Virgil and Dante’s escape through the center of the earth, emerging to see the stars. The generated summary is more explicit about the process and the symbolism.
-
-**15. Overall Structure and Tone:**
-- The generated summary is more detailed, includes more names and specific events, and covers all the major plot points, characters, and events from the original summary. It does not omit any major event or character from the original summary; rather, it adds more detail and specificity, which is accurate to the text.
-
-**16. Extra or Missing Details:**
-- The generated summary does not introduce any events, characters, or plot points that are not present in the original summary or the text itself. All additions are accurate elaborations.
-- The only possible critique is that the generated summary is more exhaustive and includes more minor characters and details than the original, but this is not an error or inaccuracy.
-
-**Conclusion:**
-- The generated summary covers all events, characters, and plot points from the original summary, with additional accurate detail and no significant omissions or extraneous information.
-
-9",9,9
+9",8.0,9.0
+The Divine Comedy-Dante Alighieri,,,,,
 The Great Gatsby-F. Scott Fitzgerald,"Certainly! Here is a **very detailed summary of the plot of ""The Great Gatsby"" based solely on the text provided**. This summary covers all main events, key developments, situations, character actions, and the conclusion, with no analysis or outside context.
 
 ---
@@ -3573,7 +3407,7 @@ The generated summary is a highly detailed and accurate recounting of ""The Grea
 **Conclusion:**
 - The generated summary covers all events, characters, and plot points from the original summary, and even adds more detail. There are no significant omissions, and the extra details are all relevant and accurate, not extraneous or misleading. The only minor difference is that the generated summary is more exhaustive, but this does not detract from its accuracy or alignment with the original.
 
-9",9,9
+9",9.0,9.0
 The Iliad-Homer,"Here is a very detailed summary of the plot of the text of ""The Iliad"" as provided above, following your instructions to include all main events, situations, and the full storyline, without outside knowledge or analysis:
 
 ---
@@ -3750,7 +3584,7 @@ The generated summary successfully covers all the major events, characters, and 
 - The only minor issue is that the generated summary is more exhaustive than the original, but this is not a flaw under the scoring rubric.
 
 **Final Score:**
-10",8,10
+10",8.0,10.0
 The Scarlet Letter-Nathaniel Hawthorne,"Certainly! Here is a **very detailed summary of the plot of ""The Scarlet Letter""** based strictly on the text you provided, covering all main events, situations, character developments, and the conclusion, without any outside knowledge or analysis:
 
 ---
@@ -3975,7 +3809,7 @@ The generated summary successfully covers all the core events, characters, and p
 **Conclusion:**
 The generated summary covers all events, characters, and plot points from the original summary, with additional detail and minor subplots that are consistent with the original. There are no significant omissions or extraneous details. The only minor discrepancy is the inclusion of more specific subplots and character names, which does not detract from the summary’s accuracy.
 
-9",6,9
+9",6.0,9.0
 Twenty Thousand Leagues under the Sea-Jules Verne,"Certainly! Here is a **very detailed summary of the plot** of the text you provided, covering all the main events, situations, key developments, characters, and the conclusion, as requested. This summary is based only on the text as provided and does not include any outside knowledge or analysis.
 
 ---
@@ -4152,7 +3986,7 @@ The generated summary successfully captures the overarching plot and major event
 The generated summary covers all major events, characters, and plot points, including the structure of the journey, the main adventures, dangers, and the conclusion. However, it omits or generalizes several specific subplots and details (drugged food, the manuscript, the natives, the telegraph cable, and some specifics of the burial and warship attack). These omissions are minor in the context of the overall plot but do represent a slight loss of nuance and specificity.
 
 **Final Score:**
-8",6,8
+8",6.0,8.0
 Ulysses-James Joyce,"Certainly! Here is a **very detailed summary of the plot of the provided text, ""Ulysses""**—based solely on the text provided, with all main events, key developments, situations, and the conclusion, and without any analysis or external context:
 
 ---
@@ -4300,4 +4134,4 @@ The generated summary is extensive and provides a good overview of the book's pl
 - The omissions are minor and do not affect the overall understanding of the plot, but they do prevent the summary from being a perfect match in terms of detail and structure.
 
 **Final Score:**
-9",6,9
+9",6.0,9.0
