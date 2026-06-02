@@ -53,4 +53,3 @@ Our paper has been accepted as a **Poster** to be presented at the **42nd Intern
   year={2026},
   note={Accepted as Poster at SEPLN 2026}
 }
-\```
