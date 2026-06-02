@@ -36,3 +36,21 @@ Extract_results.ipynb           # Extract the scores using gpt-4o-mini
 Plot.ipynb                      # Generate figures
 ```
 
+## Citation & Publication
+
+Our paper has been accepted as a **Poster** to be presented at the **42nd International Conference of the Spanish Society for Natural Language Processing (SEPLN)**.
+
+* **Paper Link:** [arXiv:2603.09981](https://arxiv.org/abs/2603.09981)
+* **Title:** Large Language Models and Book Summarization: Reading or Remembering, Which Is Better?
+
+### BibTeX
+
+```bibtex
+@article{fu2026large,
+  title={Large Language Models and Book Summarization: Reading or Remembering, Which Is Better?},
+  author={Fu, Tairan and Conde, Javier and Reviriego, Pedro and Coronado-Bl{\'a}zquez, Javier and Melero, Nina and Merino-G{\'o}mez, Elena},
+  journal={arXiv preprint arXiv:2603.09981},
+  year={2026},
+  note={Accepted as Poster at SEPLN 2026}
+}
+\```
